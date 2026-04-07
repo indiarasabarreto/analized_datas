@@ -9,11 +9,8 @@ Análise de vendas (ou dados públicos)
 
 🧩 Passo a passo:
 
-1. Baixar dataset (Kaggle ou fake)
+1. Baixar dataset
 2. Limpar dados
-3. Fazer perguntas:
-    - Produto mais vendido?
-    - Mês com mais vendas?
-4. Criar gráficos
+3. Criar gráficos
 
 ````
