@@ -1,4 +1,4 @@
-# 📊 PROJETO 2 — Análise de Dados
+# 📊 Análise de Dados
 
 ````
 Análise de vendas (ou dados públicos)
